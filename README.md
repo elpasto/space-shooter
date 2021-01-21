@@ -23,7 +23,7 @@ It's useful for who wants to contribute to a welcoming project.
 Eg: after the Hacktoberfest finished, a student asked me to work on this project as a University assignment.  
 I'm more than happy to spend time reviewing PRs and issues if someone can benefit from it. 
 
-## Pre-requisites
+## Pre-requisites +
 
 * Godot > 3.0.6
 
